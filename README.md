@@ -21,7 +21,9 @@ Maria opens one of the few streaming platforms she owns and hopes that the platf
 ![Image of Yaktocat]
 
 ## Persona 2: Jean Kelly
-![jeankelly](assignment 5pics-02.png)
+
+<img src="assignment 5pics-02.png">
+
 ![jeankelly empathy map](assignment 5pics-04.png)
 
 #### WHY?
