@@ -9,12 +9,16 @@ The purpose of UX storytelling is to put yourself in the shoes of the user to be
 - Transparency in what's available, search availability
 
 ## Persona 1: Maria Cervantez
+![Image of Yaktocat]
+![Image of Yaktocat]
 
 #### WHY?
 Maria has a long week of classes, being a teacher’s aid and working at the bookstore on weekends. It's a Saturday afternoon and she just completed a morning shift at the bookstore. Knowing she needs to grade student papers at some point during the day she sits down on the couch to rest her feet. Maria told herself that she would start taking better care of herself and giving herself more concrete breaks. Accepting that she's too tired to workout she decides the best way to relieve her stress in the limited time she has she opens her computer to watch a movie. She decides to watch a documentary about art restoration because she hasn’t been spending enough time thinking about what she wants to do after graduate school. Maria concludes that she can relax and inform herself by watching a documentary. 
 
-### HOW?
+#### HOW?
 Maria opens one of the few streaming platforms she owns and hopes that the platforms algorithm will give her a suggestion that she's interested in watching. She has watched many art restoration shows and movies, so she knows what she likes and dislikes. On the home page she notices there are many different ways she can navigate the platform but she decides to scroll through the home page to find the suggested category. After scanning through the different categories (such as recently released and popular now), she is having a difficult time finding the category she knows exists. Eventually towards the bottom after a minute of scrolling she finds the suggested section. However, the suggested section is playing more towards her interest in comedy not so much her interest in art restoration. Disappointed but still determined Maria goes to find the genre section of the platform. She scrolls all the way back to the top of the page and clicks on the documentary genre. She scans for a few minutes and is unsatisfied with the selection. She finds one that sounds familiar so she begins to watch it and stops after an hour because she needs to start grading papers. *one hour later* Maria knows she will need to go to the recently watched section to find the documentary she was watching because she couldn’t remember the name. She notices that the recently watched section and the suggested section are on completely different pages. Maria knows she is really comfortable using technology but is frustrated that she can’t make the process easier. She wishes that she could customize the homepage of the streaming platform to features she actually uses.
+
+![Image of Yaktocat]
 
 ## Persona 2: Jean Kelly
 
