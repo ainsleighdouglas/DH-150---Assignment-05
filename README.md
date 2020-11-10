@@ -9,7 +9,7 @@ The purpose of UX storytelling is to put yourself in the shoes of the user to be
 - Transparency in what's available, search availability
 
 ## Persona 1: Maria Cervantez
-<img src="assignment 5pics-06.png">
+<img src="assignment 5-01.png">
 <img src="assignment 5pics-03.png">
 
 ### Scenario
