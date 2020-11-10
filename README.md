@@ -24,7 +24,7 @@ Maria opens one of the few streaming platforms she owns and hopes that the platf
 
 <img src="assignment 5pics-02.png">
 
-![jeankelly empathy map](assignment 5pics-04.png)
+<img src="assignment 5pics-04.png">
 
 #### WHY?
 Jean just returned home from work after a long day of drafting buildings. One of her coworkers suggested a show on how to use household scraps to make sculptures. Jean doesn’t intend to start the craft today but would like to watch the show while she's making food and cleaning up the kitchen. Her husband isn’t back home from work and both her children are away at school. She is confident that she can find this one show to watch so she turns on her TV and begins to navigate the first streaming platform. 
@@ -32,4 +32,4 @@ Jean just returned home from work after a long day of drafting buildings. One of
 #### HOW?
 After selecting the first streaming platform she uses the very prominent search bar at the top of the screen and types in the title of the show. This action results in a “not available” notification, slightly annoyed she switches platforms and it results in the same “not available” notification. At this point she has spent between five and ten minutes navigating between platforms. Jean is frustrated but not ready to give up so she resorts to google. She asks the search engine which platform the show she would like to watch is on. Google notifies her that it can be found on a platform she has not checked yet. Relieved and feeling successful, Jean pulls up the suggested streaming platform and attempts to search for the show. This platform Jean doesn’t often use so she gets stumped briefly trying to find the proper search bar to use. At last she finds the search bar and successfully finds the available show. Hopes are high and she selects on the show which leads her to a new page with the “start now” button. She almost clicks play when she notices something different, next to the play button there is a caption that states “for purchase only: $12.99”. After wasting more than 20 minutes trying to find a single show Jean is extremely frustrated and annoyed. She doesn't understand how the monthly service she is paying for is asking for more money. Out of frustration she calls her son to ask why this is and where she can find the show. Her son picks up sensing the annoyance and attempts to solve the problem. He tells his mom that she can rent the show for $2.99, however Jean is already disappointed with the service she is being provided so she refuses to pay for the show. The frustration she is feeling results from the show not being available and the time she has wasted after an already long day. Jean resolves her problem by resorting to a familiar platform and watching a show she has already seen. 
 
-
+<img src="assignment 5pics-05.png">
