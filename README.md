@@ -21,6 +21,8 @@ Maria opens one of the few streaming platforms she owns and hopes that the platf
 ![Image of Yaktocat]
 
 ## Persona 2: Jean Kelly
+![jeankelly](assignment 5pics-02.png)
+![jeankelly empathy map](assignment 5pics-04.png)
 
 #### WHY?
 Jean just returned home from work after a long day of drafting buildings. One of her coworkers suggested a show on how to use household scraps to make sculptures. Jean doesn’t intend to start the craft today but would like to watch the show while she's making food and cleaning up the kitchen. Her husband isn’t back home from work and both her children are away at school. She is confident that she can find this one show to watch so she turns on her TV and begins to navigate the first streaming platform. 
